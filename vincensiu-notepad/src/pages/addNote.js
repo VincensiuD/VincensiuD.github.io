@@ -62,7 +62,7 @@ export function AddNote(){
             <textarea value={content} onChange={onContentChange}></textarea>
             <br/>
             <br/>
-            <button style={style1.link} onClick={Submission}>+ Add</button>
+            <button style={style1.link} onClick={Submission}>+ Save</button>
            
 
 
